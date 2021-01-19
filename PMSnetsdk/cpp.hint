@@ -1,0 +1,2 @@
+#define PMSNETSDK_API __declspec(dllexport)
+#define PMSNETSDK_API __declspec(dllimport)

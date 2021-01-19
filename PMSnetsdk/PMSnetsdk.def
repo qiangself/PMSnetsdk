@@ -1,0 +1,10 @@
+LIBRARY	"PMSnetsdk"
+
+EXPORTS
+
+DEV_Init									@1
+DEV_DeInit									@2
+DEV_SetConnectState							@3
+DEV_Login									@5
+DEV_Logout									@6
+DEV_StartStream								@7
